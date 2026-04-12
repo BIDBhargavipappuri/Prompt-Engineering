@@ -28,10 +28,10 @@ Architect – architect does Chaining prompts, building agents, Automating tasks
 3)	Few shot prompt – multiple examples increase efficiency of O/p.
 4)	COT – Chain of Thoughts prompting – breaking & explaining the instructions. To show the work in steps.
 5)	React Prompt(Reasoning + Acting) - thinking step by step and acting like calling a tool, searching, or performing a sub task.
-  6) Role prompting- assign role like as you are developer, teacher.
-  7) Contextual prompting- Adding background info, examples for accurate and relevant responses. 
-  8) multi model/hybrid prompting- combining any 2 or 3 of above.
-  9) Negative prompts- explicitly telling AI what to avoid. 
+6) Role prompting- assign role like as you are developer, teacher.
+7) Contextual prompting- Adding background info, examples for accurate and relevant responses. 
+8) multi model/hybrid prompting- combining any 2 or 3 of above.
+9) Negative prompts- explicitly telling AI what to avoid. 
 
 By using right prompts, LLM’s evolve as autonomous planners. With this we can enter in to world of AI agents. 
 
